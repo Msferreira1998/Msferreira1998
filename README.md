@@ -20,7 +20,8 @@
 
 	-In the future I intend to learn other front-end technologies, such as NextJS, GraphQL, React Native, Angular, 
  		Vue and any other that might be relevant for my development as a programmer.
-	-I'm also interested in learning technologies and languages for back-end and game development, among them are Python, Java, C#, Node and PHP
+	-I'm also interested in learning technologies and languages for back-end and game development,
+		among them are Python, Java, C#, Node and PHP
 
 // Where i want to go 💼
 	
