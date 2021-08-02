@@ -31,3 +31,4 @@
 
 	-Discord: Matheus Ferreira#5122
 	-Telegram: https://t.me/Ferrerowisky
+	-Linkedin: https://www.linkedin.com/in/msferreira1998/
