@@ -10,7 +10,7 @@
 
 # What can I do? 🔨
 
-	-I currently have JavaScript skills and am studying ReactJS and Typescript.
+	-I currently have JavaScript skills and am studying NextJS + ReactJS, GraphQL and Typescript.
 
 # My interests 🎮 + 💻
 
@@ -18,7 +18,7 @@
 
 # What i want to learn 📚
 
-	-In the future I intend to learn other front-end technologies, such as NextJS, React Native, Angular, 
+	-In the future I intend to learn other front-end technologies, such as React Native, Angular, 
  		Vue and any other that might be relevant for my development as a programmer.
 	-I'm also interested in learning technologies and languages for back-end and game development,
 		among them are Python, Java, C#, Node and PHP
