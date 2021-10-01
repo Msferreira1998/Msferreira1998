@@ -18,7 +18,7 @@
 
 # What i want to learn 📚
 
-	-In the future I intend to learn other front-end technologies, such as React Native, Angular 										and any other that might be relevant for my development as a programmer.
+	-In the future I intend to learn other front-end technologies, such as React Native, Angular and any other that might be relevant for my development as a programmer.
 	-I'm also interested in learning technologies and languages for back-end and game development,
 		among them are Python, Java, C#, Node and PHP
 
