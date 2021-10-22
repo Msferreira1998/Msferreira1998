@@ -6,7 +6,8 @@
 
 # My Experiencies 🤓
 
-	-I've never had an official job and I'm looking for an opportunity to improve myself.
+	-I've already worked as a freelancer on dashboard projects
+	-I currently do not have an official job and I'm looking for an opportunity to improve myself.
 
 # What can I do? 🔨
 
