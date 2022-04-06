@@ -7,11 +7,11 @@
 # My Experiencies 🤓
 
 	-I've already worked as a freelancer on dashboard projects
-	-I currently do not have an official job and I'm looking for an opportunity to improve myself.
+	-I currently working on Port Louis as VueJS junior developer
 
 # What can I do? 🔨
 
-	-I currently have JavaScript, NextJS + ReactJS, GraphQL and Typescript skills and am studying VueJs.
+	-I currently have JavaScript, NextJS + ReactJS, Vue 2, Vue 3 + Composition API, Nuxt, GraphQL and Typescript skills.
 
 # My interests 🎮 + 💻
 
@@ -19,10 +19,10 @@
 
 # What i want to learn 📚
 
-	-In the future I intend to learn other front-end technologies, such as React Native, Angular 
+	-In the future I intend to learn other front-end technologies, such as React Native, Flutter, Angular 
 		and any other that might be relevant for my development as a programmer.
 	-I'm also interested in learning technologies and languages for back-end and game development,
-		among them are Python, Java, C#, Node and PHP
+		among them are Python, Java, C# and Node
 
 # Where i want to go 💼
 	
